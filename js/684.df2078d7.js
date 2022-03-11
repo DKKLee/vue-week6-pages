@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_week6"]=self["webpackChunkvue_week6"]||[]).push([[684],{7684:function(e,r,n){n.r(r),n.d(r,{default:function(){return d}});var u=n(6252);function a(e,r,n,a,t,s){return(0,u.wg)(),(0,u.iD)("div",null,"這裡是 訂單列表")}var t={name:"DashboardOrders",data(){return{}}},s=n(3744);const c=(0,s.Z)(t,[["render",a]]);var d=c}}]);
+//# sourceMappingURL=684.df2078d7.js.map
